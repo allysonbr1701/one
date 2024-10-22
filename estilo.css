@@ -1,0 +1,116 @@
+body {
+    background-image: url(neymar-02.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 98vh;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+    transition: .5s ease;
+    color: #ffffff;
+    
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #ff0000;
+}
+.center{
+    text-align: center;
+}
+h1{
+    color: #ff0000;
+}
+
+.content
+{
+    height: 19vh;
+}
+
+footer{
+    color: #6d0000;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.youtube 
+{
+    margin: 10px;
+    width: 7vh;
+    height: 7vh;
+    border: none;
+    transition: .3s;
+    border-radius: 9px;
+}
+
+.X{ 
+    margin: 10px;
+    width: 7vh;
+    height: 7vh;
+    border: none;
+    transition: .3s;
+    border-radius: 9px;
+
+}
+
+.instagram{
+    margin: 10px;
+    width: 7vh;
+    height: 7vh;
+    border: none;
+    border-radius: 9px;
+}
+.container
+{
+    padding: 0px 50px;
+}
+nav a:hover
+{
+    color:#b7b7b7;
+    background-color: #144076;
+    border-radius: 6px;
+    font-weight: 600;
+    
+}
+main{
+   padding: 0px 50px; 
+}
+form{
+    padding: 0px 50px;
+}
+
+.card{
+    border-radius: 6%;
+    border: 1px solid;
+    width: 24vh;
+    height: 40vh;
+    text-align: center;
+    color: antiquewhite;
+    
+
+}
+
+
+
+.numero1
+{
+    margin: 10px;
+    width: 20vh;
+    height: 15vh;
+    border: none;
+    border-radius: 9px; 
+}
