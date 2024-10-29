@@ -54,7 +54,7 @@ footer{
     height: 7vh;
     border: none;
     transition: .3s;
-    border-radius: 9px;
+    border-radius: 12px;
 }
 
 .X{ 
@@ -63,7 +63,7 @@ footer{
     height: 7vh;
     border: none;
     transition: .3s;
-    border-radius: 9px;
+    border-radius: 12px;
 
 }
 
@@ -72,7 +72,7 @@ footer{
     width: 7vh;
     height: 7vh;
     border: none;
-    border-radius: 9px;
+    border-radius: 12px;
 }
 .container
 {
@@ -95,22 +95,34 @@ form{
 
 .card{
     border-radius: 6%;
-    border: 1px solid;
+    border: 1px solid rgba(0, 0, 0, 0.4);
     width: 24vh;
     height: 40vh;
     text-align: center;
-    color: antiquewhite;
-    
+    background-image: url(borda.png);
+    color: rgb(4, 0, 255);
+    }
 
+.card p
+{
+    height: 50px;
+    color: #000;
+    font-size: 1.2rem;
 }
 
-
-
-.numero1
+.card button
 {
-    margin: 10px;
-    width: 20vh;
-    height: 15vh;
     border: none;
-    border-radius: 9px; 
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background: #2285ff;
+}
+.neymar
+{
+ border: none;
+ margin: 10px;
+ width: 14vh;
+ height: 14vh;
+ border-radius: 9px;
 }
