@@ -54,7 +54,7 @@ footer{
     height: 7vh;
     border: none;
     transition: .3s;
-    border-radius: 12px;
+    border-radius: 13px;
 }
 
 .X{ 
@@ -63,7 +63,7 @@ footer{
     height: 7vh;
     border: none;
     transition: .3s;
-    border-radius: 12px;
+    border-radius: 13px;
 
 }
 
@@ -72,7 +72,7 @@ footer{
     width: 7vh;
     height: 7vh;
     border: none;
-    border-radius: 12px;
+    border-radius: 13px;
 }
 .container
 {
